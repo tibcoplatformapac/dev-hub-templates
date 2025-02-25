@@ -9,7 +9,7 @@ metadata:
     - bwce
     - recommended
 spec:
-  owner: ACME
+  owner: group:default/tibco-templates
   type: library
 
   parameters:
